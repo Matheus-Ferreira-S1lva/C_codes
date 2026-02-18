@@ -1,13 +1,15 @@
-Problema: Cash (CS50)
+Estudos de Linguagem C - CS50
 
-Este repositório contém a minha solução para o problema **Cash**, proposto no conjunto de problemas da Semana 1 do curso **CS50x de Harvard**.
+Este repositório é dedicado aos meus estudos em Linguagem C, desenvolvidos durante o curso **CS50x de Harvard**. Aqui guardo a base da minha lógica de programação e a resolução de problemas fundamentais.
 
-🚀 Sobre o Desafio
-O objetivo deste programa é calcular o número mínimo de moedas necessárias para fornecer o troco a um cliente, utilizando um **algoritmo guloso (greedy algorithm)**. 
+O que estou aprendendo?
+O foco atual é entender como o computador funciona "por baixo do capô", lidando com:
+- Gerenciamento de memória e tipos de dados.
+- Manipulação de Strings e Arrays.
+- Algoritmos de busca e ordenação.
 
-O programa solicita ao usuário o valor do troco devido e, em seguida, imprime o número total de moedas de 25, 10, 5 e 1 centavo necessárias.
-
-🛠️ Tecnologias Utilizadas
-* **Linguagem C**
-* **Biblioteca CS50** (para entrada de dados)
-* **Linux** (Ambiente de desenvolvimento)
+Tecnologias e Ferramentas
+**Linguagem:** C
+**Compilador:** GCC
+**Ambiente:** Pop!_OS (Linux)
+**Bibliotecas:** `stdio.h`, `cs50.h`, `ctype.h`, `string.h`
